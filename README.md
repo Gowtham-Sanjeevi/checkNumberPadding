@@ -7,3 +7,4 @@ To run the code:
 2. npm install -g typescript (In Terminal)
 3. Run this cmd tsc checkNumberPadding.ts
 4. Run this cmd node checkNumberPadding.js
+
